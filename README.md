@@ -13,4 +13,4 @@ Prototyping – Interactive prototype created in Figma to demonstrate user flow 
 Developer Handoff – Design specifications and assets were shared with the development team directly via Figma.
 
 Figma Link:
-You can access the design file here (if public): Figma Design File
+You can access the design file here : https://www.figma.com/design/k1EUzf05zwGNcw7WXNZq9v/Tandemloop?node-id=0-1&t=I0XnLJxLDdXoj99d-1
